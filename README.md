@@ -19,7 +19,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gym02&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gym02)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gym02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
