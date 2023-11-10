@@ -36,9 +36,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
  ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
+![F](https://img.shields.io/badge/Mybatis-EF5B25?style=flat-square&logo=F&logoColor=white)
+![F](https://img.shields.io/badge/Mybatisplus-EF5B25?style=flat-square&logo=F&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
-![Y](https://img.shields.io/badge/Mybatis-FF6C37?style=flat-square&logo=Y&logoColor=white) ![Mybatisplus](https://img.shields.io/badge/Mybatisplus-FF6C37?style=flat-square&logo=mybatis&logoColor=white)
  ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=gym02&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Naccl's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gym02&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
