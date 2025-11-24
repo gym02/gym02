@@ -7,7 +7,6 @@
 [![CSDN](https://img.shields.io/badge/CSDN-17c0eb?style=flat-square&logo=Telegram)](https://blog.csdn.net/TaloyerG?type=blog)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gym02)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](663800595@qq.com)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaccl%2FNaccl&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
 
 
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
