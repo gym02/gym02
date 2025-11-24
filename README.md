@@ -7,7 +7,7 @@
 [![CSDN](https://img.shields.io/badge/CSDN-17c0eb?style=flat-square&logo=Telegram)](https://blog.csdn.net/TaloyerG?type=blog)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gym02)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](663800595@qq.com)
-[![Bilibili](https://img.shields.io/badge/B站-FF6A00?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/602989659?spm_id_from=333.337.0.0)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF6A00?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/602989659?spm_id_from=333.337.0.0)
 
 
 
