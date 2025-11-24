@@ -21,7 +21,7 @@
 
 
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript) 
 ![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js) 
  ![E](https://img.shields.io/badge/Element%20UI-blue?style=flat-square&logo=E&logoColor=white)
