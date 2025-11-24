@@ -51,6 +51,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00D0D0?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-9B59B6?style=flat-square&logo=google&logoColor=white)
 
