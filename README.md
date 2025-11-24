@@ -47,11 +47,12 @@
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00D0D0?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-9B59B6?style=flat-square&logo=google&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-808080?style=flat-square&logo=google&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/-Multi-Agent-4CAF50?style=flat-square&logo=react&logoColor=white)
-
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=gym02&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Gavana's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gym02&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
